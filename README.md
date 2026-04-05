@@ -1,35 +1,80 @@
+---
+title: about
+date: 2026-02-16 04:58:09
+---
+<!-- more -->
+<style>
+a[target="_blank"]::after,
+a.external-link::after {
+  display: none !important;
+  content: none !important;
+}
+a img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+@media (max-width: 480px) {
+  div[style*="display:flex"] {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+</style>
+<br>
+<div align="center">
+  <img src="/images/avatar.webp" alt="avatar" width="120" style="border-radius:50%;margin-bottom:1em;" />  
+  <h1>Sanxian</h1>  
+  <p>Enjoy exploring new knowledge and technology</p>  
+  <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:0.5em;">
+    <a href="https://github.com/sanxian-4348" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.threads.com/@11_sanxian" target="_blank">
+      <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+    </a>
+    <a href="https://discord.gg/SzA7nju8KT" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://www.instagram.com/11_sanxian/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+---
 
 # `Console.WriteLine("Hello World!")`
-## 我是sanxian 三線
-來自Taiwan chiayi **高三生高職生**
-## 簡介
+## Sanxian (三線)
+**Senior High School Student | Taiwan, Chiayi**
 
-**嘉義市高級工業職業學校**
-- 高三
+## Education
+**National Chiayi Industrial Vocational High School**
+- Grade 12 (Senior)
 - 2024 - 2026
 
+## Competitions & Activities
+- **National Senior High School Student Industrial Skills Competition** — 05 Computer Software Design
+- **55th National Skills Competition (Southern Region)** — Web Technologies (Youth Division)
+- **SITCON 2025** — Attendee
+- **Senior Player 2025** — Participant
+- **SCIST × SCAICT "Lightning Quad-Link" 2026** — Activities Team
+- **JNIC (Chia-Nan Joint Information Exploration Camp) 2024** — Participant
+- **AIS3 CLUB 2023 (Cybersecurity Experience Camp - Yunlin/Chiayi)** — Participant
 
-## 經歷
+## Skills & Certifications
+- **Level C Technician Certificate:** Web Design
+- **Level C Technician Certificate:** Industrial Electronics
+- **Level C Technician Certificate:** Computer Hardware Assembly
+- **Level B Technician Certificate:** Computer Hardware Assembly
+- **Level B Technician Certificate:** Digital Electronics
 
-- **全國高級中等學校學生工業類技藝賽** — 05電腦軟體設計 選手
-- **第55屆全國技能競賽南區分區賽** — 青年組 17網頁技術 選手
-- **SITCON 2025** — 與會者
-- **SCIST資深玩家 2025** — 學員
-- **SCIST×SCAICT閃電四聯編 2026** - 活動組
-- **JNIC嘉南聯合資訊探索營 2024** - 學員
-- **2023 AIS3 CLUB雲嘉資安體驗營** - 學員
+## Community Involvement
+- **SCIST x SCAICT 2026 Joint Winter Camp** — Activities Team
+- **2026 g0v Summit** — Venue Operations Team
 
-## 技能 ＆ 證照
-- **網頁設計丙級** 
-- **工業電子丙級**
-- **電腦硬體裝修丙級**
-- **電腦硬體裝修乙級**
-- **數位電子乙級**
-
-### 社群參與
-- **SCIST x SCAICT 2026 聯合寒訓** — 活動組
-- **2026 g0v Summit** — 場務組
-## 聯絡方式
+## Connect
 
 - Instagram：[11_sanxan](https://www.instagram.com/11_sanxian/)
 - Threads：[@11_sanxan](https://www.threads.com/@11_sanxian)
