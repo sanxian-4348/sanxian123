@@ -1,26 +1,4 @@
----
-title: about
-date: 2026-02-16 04:58:09
----
-<!-- more -->
-<style>
-a[target="_blank"]::after,
-a.external-link::after {
-  display: none !important;
-  content: none !important;
-}
-a img:hover {
-  transform: scale(1.05);
-  transition: transform 0.3s ease;
-}
-@media (max-width: 480px) {
-  div[style*="display:flex"] {
-    flex-direction: column;
-    align-items: center;
-  }
-}
-</style>
-<br>
+
 <div align="center">
   <img src="/images/avatar.webp" alt="avatar" width="120" style="border-radius:50%;margin-bottom:1em;" />  
   <h1>Sanxian</h1>  
