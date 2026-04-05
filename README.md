@@ -1,60 +1,46 @@
+# # About Me 👋
 
-<div align="center">
-  
-  <h1>Sanxian</h1>  
- 
-  <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:0.5em;">
-    <a href="https://github.com/sanxian-4348" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.threads.com/@11_sanxian" target="_blank">
-      <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
-    </a>
-    <a href="https://discord.gg/SzA7nju8KT" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://www.instagram.com/11_sanxian/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </div>
-</div>
+## Brief Introduction
+- 🎓 **Senior Student at Chiayi Municipal Industrial Vocational High School (CYIVS)**, specializing in the **Electronics Department**.
+- ⚡ Currently in the final sprint for the **2026 Technical University Entrance Exam**.
+- 🛠️ Dedicated to **Hardware & Software Integration**, with expertise ranging from digital electronics to web and game development.
+- 🚀 Passionate about exploring new technologies and actively participating in **Open Source communities**.
+- 🎮 Enthusiastic about **Godot Engine** for game logic and **C#** for application development.
+
+## Life Experiences
+- 🛠️ **Event Coordinator** — SCIST x SCAICT 2026 Joint Winter Camp.
+- 🌐 **Field Affairs Team Member** — 2026 g0v Summit.
+- 🛡️ **Member** — AIS3 CLUB (Cloud Chiayi Cybersecurity Experience Camp).
+- 👾 Developed a **C# Gomoku (Five-in-a-row)** game and various Godot-based projects.
+- 🧪 **Member** — SCIST Senior Player 2025.
+
+## Competition & Certifications
+- 🏆 **National High School Student Industrial Skills Competition** — Computer Software Design (05) Contestant.
+- 🥈 **55th National Skills Competition (Southern Region)** — Web Technologies (17) Contestant.
+- 📜 **National Certification (Level B)**: Computer Hardware Decoration, Digital Electronics.
+- 📜 **National Certification (Level C)**: Web Design, Industrial Electronics, Computer Hardware Decoration.
+
+➡️ [Sanxian's Personal Website](https://sanxian.netlify.app/)
+
+# Skillset
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,godot,arduino,html,css,js,git,vscode,visualstudio)](https://skillicons.dev)
+
+# Activity Graph
+[![Sanxian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanxian-4348&bg_color=0d1117&color=f0f6fc&line=4493f8&point=b0b0b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# Stats & Achievements
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sanxian-4348&theme=holi-theme)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanxian-4348&theme=github_dark&rank_icon=icons" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanxian-4348&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
 
 <br>
 
----
+<br>
 
-# `Console.WriteLine("Hello World!")`
-## Sanxian (三線)
-**Senior High School Student | Taiwan, Chiayi**
-
-## Education
-**National Chiayi Industrial Vocational High School**
-- Grade 12 (Senior)
-- 2024 - 2026
-
-## Competitions & Activities
-- **National Senior High School Student Industrial Skills Competition** — 05 Computer Software Design
-- **55th National Skills Competition (Southern Region)** — Web Technologies (Youth Division)
-- **SITCON 2025** — Attendee
-- **Senior Player 2025** — Participant
-- **SCIST × SCAICT "Lightning Quad-Link" 2026** — Activities Team
-- **JNIC (Chia-Nan Joint Information Exploration Camp) 2024** — Participant
-- **AIS3 CLUB 2023 (Cybersecurity Experience Camp - Yunlin/Chiayi)** — Participant
-
-## Skills & Certifications
-- **Level C Technician Certificate:** Web Design
-- **Level C Technician Certificate:** Industrial Electronics
-- **Level C Technician Certificate:** Computer Hardware Assembly
-- **Level B Technician Certificate:** Computer Hardware Assembly
-- **Level B Technician Certificate:** Digital Electronics
-
-## Community Involvement
-- **SCIST x SCAICT 2026 Joint Winter Camp** — Activities Team
-- **2026 g0v Summit** — Venue Operations Team
-
-## Connect
-
-- Instagram：[11_sanxan](https://www.instagram.com/11_sanxian/)
-- Threads：[@11_sanxan](https://www.threads.com/@11_sanxian)
-- Discord：[ＭＹ ＳＥＲＶＥＲ](https://discord.gg/SzA7nju8KT)
-- GitHub：[Sanxian-4348](https://github.com/sanxian-4348)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanxian-4348&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
