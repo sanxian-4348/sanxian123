@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img src="/images/avatar.webp" alt="avatar" width="120" style="border-radius:50%;margin-bottom:1em;" />  
+  
   <h1>Sanxian</h1>  
-  <p>Enjoy exploring new knowledge and technology</p>  
+ 
   <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:0.5em;">
     <a href="https://github.com/sanxian-4348" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
